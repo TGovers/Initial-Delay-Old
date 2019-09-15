@@ -29,11 +29,11 @@
     <array>
       <dict>
         <key>name</key>
-        <string>yourcompany: InitialDelay</string>
+        <string>yourcompany: Initial:Delay</string>
         <key>description</key>
-        <string>InitialDelay</string>
+        <string>Initial:Delay</string>
         <key>factoryFunction</key>
-        <string>InitialDelayAUFactory</string>
+        <string>Initial_DelayAUFactory</string>
         <key>manufacturer</key>
         <string>Manu</string>
         <key>type</key>

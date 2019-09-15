@@ -350,10 +350,10 @@
  #define JucePlugin_Enable_IAA             0
 #endif
 #ifndef  JucePlugin_Name
- #define JucePlugin_Name                   "InitialDelay"
+ #define JucePlugin_Name                   "Initial:Delay"
 #endif
 #ifndef  JucePlugin_Desc
- #define JucePlugin_Desc                   "InitialDelay"
+ #define JucePlugin_Desc                   "Initial:Delay"
 #endif
 #ifndef  JucePlugin_Manufacturer
  #define JucePlugin_Manufacturer           "yourcompany"
@@ -410,10 +410,10 @@
  #define JucePlugin_AUSubType              JucePlugin_PluginCode
 #endif
 #ifndef  JucePlugin_AUExportPrefix
- #define JucePlugin_AUExportPrefix         InitialDelayAU
+ #define JucePlugin_AUExportPrefix         Initial_DelayAU
 #endif
 #ifndef  JucePlugin_AUExportPrefixQuoted
- #define JucePlugin_AUExportPrefixQuoted   "InitialDelayAU"
+ #define JucePlugin_AUExportPrefixQuoted   "Initial_DelayAU"
 #endif
 #ifndef  JucePlugin_AUManufacturerCode
  #define JucePlugin_AUManufacturerCode     JucePlugin_ManufacturerCode
@@ -461,7 +461,7 @@
  #define JucePlugin_IAASubType             JucePlugin_PluginCode
 #endif
 #ifndef  JucePlugin_IAAName
- #define JucePlugin_IAAName                "yourcompany: InitialDelay"
+ #define JucePlugin_IAAName                "yourcompany: Initial:Delay"
 #endif
 #ifndef  JucePlugin_VSTNumMidiInputs
  #define JucePlugin_VSTNumMidiInputs       16

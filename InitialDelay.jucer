@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="iQ5sgA" name="InitialDelay" projectType="audioplug" jucerVersion="5.4.3">
+<JUCERPROJECT id="iQ5sgA" name="InitialDelay" projectType="audioplug" jucerVersion="5.4.3"
+              pluginName="Initial:Delay" pluginDesc="Initial:Delay" pluginAUExportPrefix="Initial_DelayAU">
   <MAINGROUP id="EL7c0q" name="InitialDelay">
     <GROUP id="{29B95A44-71CC-307D-A255-8C6BC19F2F61}" name="Source">
       <FILE id="XYWklx" name="PluginProcessor.cpp" compile="1" resource="0"
